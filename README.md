@@ -1,4 +1,4 @@
-# number_detection_model
+# number_detection_GUI
 
 
 </br>

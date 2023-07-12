@@ -19,7 +19,11 @@
 * 사용 </br>
 
 
-https://github.com/PJH930/number_detection_model/assets/117810524/88b95407-d62e-4bc0-9460-82e727e37d64
+
+
+https://github.com/PJH930/number_detection_model/assets/117810524/e11c263b-804f-4b1b-9581-8b737dfa145b
+
+
 
 </br>
 GUI 에서 데이터가 들어있는 폴더를 선택하면 오른쪽 탐색창에 폴더의 데이터가 출력됨</br>
